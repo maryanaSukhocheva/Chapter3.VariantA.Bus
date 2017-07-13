@@ -1,14 +1,9 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package chapter3.varianta.bus.main;
 
 import chapter3.varianta.bus.action.Action;
 import chapter3.varianta.bus.action.OutputData;
 import chapter3.varianta.bus.action.Tasks;
 import chapter3.varianta.bus.entities.Bus;
-import chapter3.varianta.bus.enums.Mark;
 import java.util.ArrayList;
 import java.util.List;
 
